@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4192430221109743620}
   - component: {fileID: 6885475750381113929}
   - component: {fileID: 8471151530637654208}
+  - component: {fileID: 7726294963331585821}
   m_Layer: 0
   m_Name: Boat2
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7726294963331585821
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 553398449236135848}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.1940856, y: 0.64150894, z: 1.4209448}
+  m_Center: {x: 0, y: 0, z: 0}
